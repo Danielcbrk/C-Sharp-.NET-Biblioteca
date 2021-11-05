@@ -11,7 +11,7 @@ namespace Biblioteca.Controllers
     {
         public IActionResult Cadastro()
         {
-            Autenticacao.CheckLogin(this);
+            AutenticacaoController.CheckLogin(this);
 
             LivroService livroService = new LivroService();
             EmprestimoService emprestimoService = new EmprestimoService();
@@ -37,10 +37,12 @@ namespace Biblioteca.Controllers
             return RedirectToAction("Listagem");
         }
 
+        
+
         public IActionResult Listagem(string tipoFiltro, string filtro)
         {
             
-            Autenticacao.CheckLogin(this);
+            AutenticacaoController.CheckLogin(this);
             FiltrosEmprestimos objFiltro = null;
             if(!string.IsNullOrEmpty(filtro))
             {

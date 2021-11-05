@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca2\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca2\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca\\obj\\",
+      "outputPath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIk9dGD152qyiOfbYLXEShdOErEu1QYMAp/VXpKX6pN/FRB+yGp+HCZMvc/f6VaZMkWesdA6Tfz1C6Wbah0LqQ==",
+  "dgSpecHash": "WBN3FZ4cvZM09QlNsjQw4+rhoi1rpDVhNJQtwFQP1+tNzw0szBBW3DRHQbwQiKg/BuVkPzM8oV5mINIpCWKG+A==",
   "success": true,
-  "projectFilePath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "E:\\ARQUIVOS P\\T.I-PROGRAMAÇÃO\\TÉCNICO EM INFORMATICA PARA INTERNET - PSG\\UC07-NOVA\\Biblioteca2\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
