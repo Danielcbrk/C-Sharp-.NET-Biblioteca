@@ -65,6 +65,7 @@ namespace Biblioteca.Models
             }
         }
 
+
         public Emprestimo ObterPorId(int id)
         {
             using (BibliotecaContext bc = new BibliotecaContext())
